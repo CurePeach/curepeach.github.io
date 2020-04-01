@@ -1,3 +1,5 @@
-# website
+# Clarissa T - Portfolio Website
 
-This is the repository for my website. This includes all code, images and other parts of my website.
+This is the repository for my website which will include code, images and other components.
+
+It will display my skills, the courses I have completed, the projects I have undertaken, my work experience and more.
