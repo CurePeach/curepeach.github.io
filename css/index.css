@@ -5,9 +5,12 @@
 }
 
 #left-side {
-  max-width: 30%;
+  max-width: 15%;
+  margin: 2%;
+  padding: 1%
 }
 
 #main {
-  margin: 5%;
+  margin: 2%;
+  padding: 1%;
 }
