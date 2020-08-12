@@ -9,3 +9,8 @@
 - I want to implement my Ferris Wheel website idea so I'm going to implement a simplified version using tabs and folders instead.
 - I have decided to code my first draft of my website using pure HTML, JavaScript and CSS. I have never coded a website from the ground up before so I will try this first to learn more about the origin of websites? I don't know - it just sort of seemed fun.
 - I'm really bad with flex stuff I found as working through university projects. I created something really simple using the flex property by creating two sides of the website. The left bar will contain important information and the main will contain more in-depth information based on certain categories. The next step is to make the left bar static on the page and so, only the main will change as the user scrolls.
+
+**12th August 2020**
+- Added background colours. My favourite colours are blue and yellow so I've decided to go for a teal colour scheme. I find teal to be always aesthetically pleasing.
+- Changed the font family to monospace because I thought it looked cute. No other reason. Don't think I need another reason.
+- Added a JavaScript script to make sure I know what I'm doing. I realised I have to add the script AFTER everything has been rendered or I can't do anything. Even though it looks like things are working at the same time... they're not.

@@ -27,3 +27,11 @@
   background-color: #25736e;
   color: white;
 }
+
+.information {
+  background-color: #cffffc;
+}
+
+.inactive {
+  display: none;
+}
