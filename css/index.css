@@ -1,15 +1,29 @@
 
 #root {
   display: flex;
+  font-family: monospace;
 }
 
 #left-bar {
-  max-width: 15%;
+  width: 15%;
   margin: 2%;
-  padding: 1%
+  padding: 3%;
+  border-radius: 5%;
+  border-width: 1%;
+  border-color: white;
+  background-color: #cffffc;
 }
 
 #main {
   margin: 2%;
   padding: 1%;
+  height: auto;
+  width: 70%;
+}
+
+.info-bar {
+  margin: 2%;
+  padding: 1%;
+  background-color: #25736e;
+  color: white;
 }
