@@ -14,3 +14,6 @@
 - Added background colours. My favourite colours are blue and yellow so I've decided to go for a teal colour scheme. I find teal to be always aesthetically pleasing.
 - Changed the font family to monospace because I thought it looked cute. No other reason. Don't think I need another reason.
 - Added a JavaScript script to make sure I know what I'm doing. I realised I have to add the script AFTER everything has been rendered or I can't do anything. Even though it looks like things are working at the same time... they're not.
+
+**4th January 2021**
+- I noticed when the window was minimised, the links look a bit weird so I'm changing the titles to FontAwesome icons. Learning to set these up is taking a bit longer than I first assumed because I remember in one of my projects last year, my friend wanted to add a play button and I think that's already built-in so we didn't need to use FontAwesome.
