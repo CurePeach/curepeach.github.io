@@ -1,12 +1,27 @@
 
 
+function revealInfo(button, infoId) {
+  button.addEventListener("click", () => {
+    const info = document.getElementById(infoId);
+    if (info.classList.contains("inactive")) {
+      info.classList.remove("inactive");
+    } else {
+      info.classList.add("inactive");
+    }
+  })
+} 
+
 const workExpTab = document.getElementById("work-exp");
-console.log(workExpTab);
+revealInfo(workExpTab, "work-exp-info");
+
 const skillsTab = document.getElementById("skills");
-console.log(skillsTab);
+revealInfo(skillsTab, "skills-info");
+
 const projectsTab = document.getElementById("projects");
-console.log(projectsTab);
+revealInfo(projectsTab, "projects-info");
+
 const hobbiesTab = document.getElementById("hobbies");
-console.log(hobbiesTab);
+revealInfo(hobbiesTab, "hobbies-info");
+
 const educationTab = document.getElementById("education");
-console.log(educationTab);
+revealInfo(educationTab, "education-info");

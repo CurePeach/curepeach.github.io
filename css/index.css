@@ -6,7 +6,7 @@
 
 #left-bar {
   width: 15%;
-  margin: 2%;
+  margin: 1%;
   padding: 3%;
   border-width: 1%;
   border-color: white;
@@ -14,7 +14,7 @@
 }
 
 #main {
-  margin: 2%;
+  margin: 1%;
   padding: 1%;
   height: auto;
   width: 70%;
@@ -25,10 +25,13 @@
   padding: 1%;
   background-color: #25736e;
   color: white;
+  cursor: pointer;
 }
 
 .information {
-  background-color: #cffffc;
+  background-color: #5db1ab;
+  margin: 2%;
+  padding: 1%;
 }
 
 .inactive {
