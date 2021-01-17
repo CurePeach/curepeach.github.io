@@ -22,4 +22,6 @@
 
 **17th January 2021**
 - Goal for this session is to just replace the lorem ipsum filler text with actual information about me.
-- Found a bug where the font size of the left bar is extremely small on different sized windows. I'm not sure why it is doing this because I don't have a line that explicitly impacts the CSS. I'm not going to be surprised if it's something to with flex because flex things make me sad honestly.
+- Found a bug where the font size of the left bar is extremely small on different sized windows. I'm not sure why it is doing this because I don't have a line that explicitly impacts the CSS around font size. I'm not going to be surprised if it's something to with flex because flex things make me sad honestly.
+- Replacing the filler text is taking a lot longer than I estimated. I have completed Work Experience and Skills. I think I can complete the other three categories on another day.
+- Also, note I want to add a little animation on the website. I will research how to accomplish this in the meantime.
