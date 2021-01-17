@@ -19,3 +19,6 @@
 - I noticed when the window was minimised, the links look a bit weird so I'm changing the titles to FontAwesome icons. Learning to set these up is taking a bit longer than I first assumed because I remember in one of my projects last year, my friend wanted to add a play button and I think that's already built-in so we didn't need to use FontAwesome.
 - I just added some dummy blocks of data to test out what my page would look like if it had information on it. I want to make it that the side bar is always there but I'm not sure how to. Time to do some extensive googling!! I still can't seem to figure it out without ruining the rest of my page so I guess it will have to do.
 - My initial goal of this coding session was to make the subtitles interactive. It required a little bit of JavaScript revision but I think I got it done pretty well! :)
+
+**17th January 2021**
+- Goal for this session is to just replace the lorem ipsum filler text with actual information about me.
