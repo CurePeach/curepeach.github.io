@@ -25,3 +25,6 @@ revealInfo(hobbiesTab, "hobbies-info");
 
 const educationTab = document.getElementById("education");
 revealInfo(educationTab, "education-info");
+
+const volunteeringTab = document.getElementById("volunteering");
+revealInfo(volunteeringTab, "volunteering-info");

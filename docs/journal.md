@@ -25,3 +25,6 @@
 - Found a bug where the font size of the left bar is extremely small on different sized windows. I'm not sure why it is doing this because I don't have a line that explicitly impacts the CSS around font size. I'm not going to be surprised if it's something to with flex because flex things make me sad honestly.
 - Replacing the filler text is taking a lot longer than I estimated. I have completed Work Experience and Skills. I think I can complete the other three categories on another day.
 - Also, note I want to add a little animation on the website. I will research how to accomplish this in the meantime.
+
+**18th January 2021**
+- I want to add a volunteering section because there are things that don't really fall into any of the categories that I want to mention.
