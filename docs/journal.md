@@ -28,3 +28,6 @@
 
 **18th January 2021**
 - I want to add a volunteering section because there are things that don't really fall into any of the categories that I want to mention.
+
+**19th January 2021**
+- I am adding information to the education tab.
